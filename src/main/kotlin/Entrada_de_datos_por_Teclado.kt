@@ -1,5 +1,5 @@
 fun main(args: Array<String>){
-  //la funcion readline no permite ingresar cualquier dato por el  consola por medio de la consola
+  //la funcion readline no permite ingresar cualquier dato por  medio de la consola
     println("Ingrese un Primer Numero")
     var numero1= readLine()?.toInt() as Int
 
