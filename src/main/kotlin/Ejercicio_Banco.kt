@@ -1,7 +1,7 @@
-class Ejercicio_Banco(opcion:Int,cantidad:Int, actualizar:Int){
-    var Opcion:Int=opcion
-    var Cantidad:Int=cantidad
-    var Actualizar:Int=actualizar
+class Ejercicio_Banco(){
+    var Opcion:Int=0
+    var Cantidad:Int=0
+    var Actualizar:Int=0
 
     fun operacion(){
         println("Ingrese la accion que desea hacer")
