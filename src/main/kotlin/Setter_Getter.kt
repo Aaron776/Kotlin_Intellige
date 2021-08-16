@@ -8,6 +8,7 @@ class Setter_Getter {
 
     fun getVelocity():Int{
         return velocidad+20
+
     }
 
     fun setVelocity(velocity:Int){

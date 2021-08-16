@@ -12,7 +12,7 @@ fun main(args:Array<String>){
 }
 /*Esta clase nos va a pemitir heredarla otra clase para que pueda implementar los metodos que esta va a definir
 y pueda sobreescribir los metodos abstractos que van a funionar como una plantilla para la clase que vaya a implementar esta clase abstracta
-* */
+*/
 abstract class persona(val nombre:String){
     abstract fun saludar()
 
