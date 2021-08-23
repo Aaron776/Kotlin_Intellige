@@ -1,4 +1,5 @@
 class Ejercicio_Banco(){
+    //Para poder usar las variables globlaes en una clase sin usar el constructor es mejor igualarlas a cero
     var Opcion:Int=0
     var Cantidad:Int=0
     var Actualizar:Int=0

@@ -12,6 +12,6 @@ class Constructor_Clase(marca:String,precio:Double,color:String) {
     }
 
     fun apagar() {
-        println("El auto se ha apagado de buena manera")
+        println("El auto de color "+Color+ " se ha apagado de buena manera")
     }
 }

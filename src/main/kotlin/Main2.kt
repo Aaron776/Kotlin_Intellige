@@ -4,7 +4,7 @@ var ferrari:Constructor_Clase=Constructor_Clase("Ferrari",20000.34,"Rojo")
     ferrari.apagar()
 
 
-    var Mazda:Constructor_Clase=Constructor_Clase("Mazda",12.3,"Rojo")
+    var Mazda:Constructor_Clase=Constructor_Clase("Mazda",12.3,"Azul")
     Mazda.encender()
     Mazda.apagar()
 
