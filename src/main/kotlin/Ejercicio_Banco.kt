@@ -1,8 +1,11 @@
+import jdk.nashorn.internal.runtime.ScriptingFunctions.readLine
+
 class Ejercicio_Banco(){
     //Para poder usar las variables globlaes en una clase sin usar el constructor es mejor igualarlas a cero
     var Opcion:Int=0
     var Cantidad:Int=0
     var Actualizar:Int=0
+    var Nombre:String="Aaron Ortiz"
 
     fun operacion(){
         println("Ingrese la accion que desea hacer")
